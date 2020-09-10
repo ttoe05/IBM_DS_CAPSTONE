@@ -2,10 +2,14 @@ Description of the Problem:
 
 The 2 smallest states in the US are Rhode Island and Delaware. Looking at the capital cities of both, how do they stack up against each other? Most of the of the general population
 is unfamilar with both states and cities as they are not the most reknowned, such as Manhattan or Los Angles. However, by comparing the 2, as a toursit looking to venture to either one
-of these states, which one would you most likely visit.
+of these states, which one would you most likely visit?
+
+As social media continues to play a major influence on the lives of many, the trend of traveling will continue to grow. This project is inteded for those who are looking to explore some unknown areas within the US, or are looking to potentially move to a more low_key area. 
 
 Description of the Data:
 
-To solve the problem of where a toursit would most likely visit out of the 2 smallest states in the US would be Foursquare and Zomato. Because Foursquare only returns basic 
+To help solve the problem of where a toursit would most likely visit out of the 2 smallest states in the US, the Foursquare and Zomato APIs would be used to do so. Because Foursquare only returns basic 
 firmographic data, the venue category, and a venue ID, we could leverage Zomato for more data info about venues. Specifically for restuarants. So any one who is a foodie can make
 a better informed decision. Both APIs will give a combination of data for activities in that area as well as how good the food is.
+
+Features that would be used for this project would be Latitude, Longitude, Venue Category, Venue name, Neighborhood the venue belongs to, night life index, and possibly ratings.
